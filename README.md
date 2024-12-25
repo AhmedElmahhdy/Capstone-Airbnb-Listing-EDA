@@ -17,9 +17,9 @@ This project focuses on performing an exploratory data analysis (EDA) of Airbnb 
 * Any CSV file from [Inside Airbnb](https://insideairbnb.com/get-the-data/) can be chosen for this analysis. It is essential that the chosen dataset is up-to-date and relevant to ensure the analysis reflects the current state of the Airbnb market in the selected city.
 
 ## How to use 
-* 1- Download a dataset from [Inside Airbnb](https://insideairbnb.com/get-the-data/) 
-* 2- Clone the repo 
+*  Download a dataset from [Inside Airbnb](https://insideairbnb.com/get-the-data/) 
+*  Clone the repo 
 ``` bash
 git clone https://github.com/AhmedElmahhdy/Capstone-Airbnb-Listing-EDA
 ```
-* 3- Run the code 
+*  Run the code 
